@@ -1,2 +1,2 @@
 # wildberriess
-# https://github.io/Shkirenkoroma/wildberriess/index.html
+# https://Shkirenkoroma/github.io/wildberriess/index.html
